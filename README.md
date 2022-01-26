@@ -11,9 +11,9 @@ Um aplicativo usado para gerenciar orçamento de projetos, construído com React
 
 ## Screenshots do projeto
 
-![alt text](http://url/to/imagem.png)
+![pagina home](https://github.com/LukeRekt/React-Projeto-Site/blob/main/Screenshot_1.PNG?raw=true)
 
-![alt text](http://url/to/imagem2.png)
+![Pagina de projetos](https://github.com/LukeRekt/React-Projeto-Site/blob/main/Screenshot_2.PNG?raw=true)
 
 ## Instruções de instalação e configuração
 
@@ -34,7 +34,7 @@ Para iniciar o servidor:
 
 Para testar o app:
 
-`localhost:3000/ideas`  
+`localhost:3000/`  
 
 ### Sobre:  
 
