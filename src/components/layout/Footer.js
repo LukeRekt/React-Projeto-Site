@@ -9,10 +9,11 @@ function Footer(){
                 <FaFacebook/>
             </li>
             <li>
-                <FaInstagram/>
+              <FaInstagram/>
             </li>
             <li>
-                <FaLinkedin/>
+            <a className={styles.logoLinkedin} target="_blank" href="https://www.linkedin.com/in/lucas-rodrigues-67484120b/"><FaLinkedin/></a>
+                
             </li>
         </ul>
         <p className={styles.copy_right}><span>Costs</span> &copy; 2021</p>

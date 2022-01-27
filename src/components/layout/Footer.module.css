@@ -30,3 +30,9 @@
     font-weight: bold;
     color: #ffbb33;
 }
+.logoLinkedin{
+    color: white;
+}
+.logoLinkedin:hover{
+    color: #ffbb33;
+}
