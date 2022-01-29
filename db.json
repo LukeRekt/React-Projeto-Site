@@ -1,19 +1,25 @@
 {
   "projects": [
     {
-      "name": "Teste de projetos",
-      "budget": "1233",
+      "name": "asdas",
+      "budget": "5146465",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
-      "cost": 111,
+      "cost": 678,
       "services": [
         {
-          "cost": "111",
-          "name": "sdfsdf",
-          "description": "sfsdfsd",
-          "id": "8eee86fd-efd4-4f3f-b6dd-8ebe9225ef10"
+          "name": "teste",
+          "cost": "555",
+          "description": "adsdasdsad",
+          "id": "546b23c0-0a80-4e3a-ab1a-63ab4f299e5e"
+        },
+        {
+          "name": "teste",
+          "cost": "123",
+          "description": "asdasdasdas",
+          "id": "df58f232-5496-47f6-a1c4-eaa6b81b712b"
         }
       ],
       "id": 1
