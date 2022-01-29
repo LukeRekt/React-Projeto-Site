@@ -1,27 +1,14 @@
 {
   "projects": [
     {
-      "name": "asdas",
-      "budget": "5146465",
+      "name": "Teste1",
+      "budget": "99999",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "cost": 678,
-      "services": [
-        {
-          "name": "teste",
-          "cost": "555",
-          "description": "adsdasdsad",
-          "id": "546b23c0-0a80-4e3a-ab1a-63ab4f299e5e"
-        },
-        {
-          "name": "teste",
-          "cost": "123",
-          "description": "asdasdasdas",
-          "id": "df58f232-5496-47f6-a1c4-eaa6b81b712b"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     }
   ],
