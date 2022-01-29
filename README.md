@@ -6,14 +6,16 @@ Um aplicativo usado para gerenciar orçamento de projetos, construído com React
 - [x] Home
 - [x] Criar Projetos
 - [x] Remover Projetos
-- [ ] Editar Projetos
-- [ ] Cálculos de orçamento
+- [x] Editar Projetos
+- [x] Cálculos de orçamento
 
 ## Screenshots do projeto
 #Home
-![pagina home](https://github.com/LukeRekt/React-Projeto-Site/blob/main/Screenshot_1.PNG?raw=true)
+![Página home](https://github.com/LukeRekt/React-Projeto-Site/blob/main/Screenshot_1.PNG?raw=true)
 #Projetos
-![Pagina de projetos](https://github.com/LukeRekt/React-Projeto-Site/blob/main/Screenshot_2.PNG?raw=true)
+![Página de projetos](https://github.com/LukeRekt/React-Projeto-Site/blob/main/Screenshot_2.PNG?raw=true)
+#Edição de Projetos e serviços
+![Edicao de projetos](https://github.com/LukeRekt/React-Projeto-Site/blob/main/Screenshot_3.PNG?raw=true)
 
 ## Instruções de instalação e configuração
 
